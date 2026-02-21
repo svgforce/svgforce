@@ -11,16 +11,19 @@ This roadmap outlines planned improvements and future direction of SVG Force.
 - Public pricing page
 - Performance optimization
 - Improved UI/UX
+- Vue export support
+- Svelte export support
 
 ---
 
 ## 🚀 Mid Term
 
-- Team plans
-- API access
+- Team plan improvements
+- Public API access
 - CLI version
 - Figma plugin
-- Batch processing support
+- Batch SVG processing
+- Advanced SVG optimization controls
 
 ---
 
@@ -30,6 +33,7 @@ This roadmap outlines planned improvements and future direction of SVG Force.
 - AI-assisted SVG optimization
 - Marketplace for shared icon packs
 - Enterprise features
+- Design system integration tools
 
 ---
 
