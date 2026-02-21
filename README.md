@@ -1,5 +1,8 @@
 # SVG Force
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
+[![Status](https://img.shields.io/badge/status-beta-orange)]()
+
 **Modern SVG processing and component generator for React, Angular and plain HTML projects.**
 
 SVG Force helps developers convert raw SVG files into clean, optimized, production-ready output with support for:
