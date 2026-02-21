@@ -1,10 +1,10 @@
 # SVG Force
 
-**Modern SVG processing and component generator for React, Vue, Svelte, Angular and plain HTML projects.**
+**Modern SVG processing and component generator for React, Angular and plain HTML projects.**
 
 SVG Force helps developers convert raw SVG files into clean, optimized, production-ready output with support for:
 
-- ⚡ React, Vue, Svelte, Angular and other modern frameworks
+- ⚡ React and Angular export
 - 🌐 Plain HTML optimization mode
 - 🎨 Advanced gradient & full multicolor support
 - 🎬 Animation-ready output
@@ -25,6 +25,8 @@ https://www.svgforce.dev
 SVG Force is publicly available in **beta** and actively developed.
 
 Payments and subscription features are being integrated.
+
+Vue and Svelte support are planned.
 
 ---
 
