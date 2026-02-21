@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
 [![Status](https://img.shields.io/badge/status-beta-orange)]()
 
-**Modern SVG processing and component generator for React, Angular and plain HTML projects.**
+Modern SVG processing and component generator for React, Angular and plain HTML projects.
 
 SVG Force helps developers convert raw SVG files into clean, optimized, production-ready output with support for:
 
@@ -27,9 +27,7 @@ https://www.svgforce.dev
 
 SVG Force is publicly available in **beta** and actively developed.
 
-Payments and subscription features are being integrated.
-
-Vue and Svelte support are planned.
+Subscription and payment infrastructure is currently being finalized.
 
 ---
 
